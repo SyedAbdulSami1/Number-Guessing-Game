@@ -1,6 +1,6 @@
 {
   "name": "@syed-abdul-sami/number-guessing-game",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "This is number guessing game.",
   "main": "index.js",
   "type": "module",
